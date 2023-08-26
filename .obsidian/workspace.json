@@ -1,0 +1,200 @@
+{
+  "main": {
+    "id": "090e731a6edd4431",
+    "type": "split",
+    "children": [
+      {
+        "id": "8e78db9d1d2b2bbc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f4c3fa1f3f49fd65",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "verne-statute-ES.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1861aa1ece06f1cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zeus.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "72335d3a2a3e2685",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "verne-statute-ES.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ec1f37d2519a7ea4",
+    "type": "split",
+    "children": [
+      {
+        "id": "f59d7a58d8f1e390",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c0e23b480e9816cf",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "daab348b1419a926",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "653dfa60502984b1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d532035cb4d68d7e",
+    "type": "split",
+    "children": [
+      {
+        "id": "764c6d127d3df592",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fb517cde7b695ffe",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "verne-statute-ES.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5c804a1333763adc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "verne-statute-ES.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5176d685dd75f51d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "53d08e380aedc724",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "verne-statute-ES.md"
+              }
+            }
+          },
+          {
+            "id": "56ff76ea16ebf9fe",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "72335d3a2a3e2685",
+  "lastOpenFiles": [
+    "To-Do List.md",
+    "verne-statute-ES.md",
+    "README.md",
+    "a/README.md",
+    "a",
+    "WebODM.md",
+    "Zeus.md",
+    "Verne/README.md",
+    "Verne",
+    "New folder",
+    "2023-08-26.md",
+    "Untitled.canvas",
+    "Untitled",
+    "Uso offline del mapa.md",
+    "SCRUM.md"
+  ]
+}
