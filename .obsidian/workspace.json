@@ -20,18 +20,6 @@
             }
           },
           {
-            "id": "1861aa1ece06f1cc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zeus.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "72335d3a2a3e2685",
             "type": "leaf",
             "state": {
@@ -44,7 +32,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -179,15 +167,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "72335d3a2a3e2685",
+  "active": "c0e23b480e9816cf",
   "lastOpenFiles": [
-    "To-Do List.md",
+    "Zeus.md",
     "verne-statute-ES.md",
+    "To-Do List.md",
     "README.md",
     "a/README.md",
     "a",
     "WebODM.md",
-    "Zeus.md",
     "Verne/README.md",
     "Verne",
     "New folder",
