@@ -13,38 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "verne-statute-ES.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "72335d3a2a3e2685",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "verne-statute-ES.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "952ca1bd7faaa956",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "how-to/configure-obsidian-enviroment-ES.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -179,14 +154,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "952ca1bd7faaa956",
+  "active": "f4c3fa1f3f49fd65",
   "lastOpenFiles": [
+    "verne-statute-ES.md",
     "how-to/configure-obsidian-enviroment-IMG/download-button.png",
     "how-to/configure-obsidian-enviroment-ES.md",
+    "how-to/configure-obsidian-enviroment-IMG/settings.png",
     "how-to/configure-obsidian-enviroment-IMG",
     "Pasted image 20230827021019.png",
     "how-to",
-    "verne-statute-ES.md",
     "Zeus.md",
     "To-Do List.md",
     "README.md",
