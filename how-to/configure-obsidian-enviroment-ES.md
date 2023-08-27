@@ -19,3 +19,6 @@ En la [página de descargas](https://obsidian.md/download) de Obsidian presionar
 
 >![[download-button.png]]
 
+Una vez descargado el instalador, lo ejecutaremos y seguiremos el proceso habitual de instalar en Windows, que consiste en presionar siguiente > siguiente > aceptar > siguiente... hasta que esté instalado correctamente y esperar a que se abra.
+
+- ###
