@@ -38,6 +38,7 @@ Este punto puede resultar algo tedioso tanto de hacer como explicar. Así que re
 
 - [Conectar a Github con SSH](https://docs.github.com/es/authentication/connecting-to-github-with-ssh)
 - [Obsidian Git para principiantes](https://dannyhatcher.com/obsidian-git-for-beginners/)
-	- En este tutorial no es necesario instalarse el Github Desktop. Con tener el SSH-Agent configurado en ~/.bashrc basta. Es **IMPORTANTE** que al momento de clonar los repositorios se haga con HTTPS si se quieren evitar complicaciones o problemas de autenticación.
+	- A pesar de lo que diga este tutorial, no es necesario instalarse el Github Desktop. Con tener el SSH-Agent configurado en ~/.bashrc basta. Es **IMPORTANTE** que al momento de clonar los repositorios se haga con HTTPS si se quieren evitar complicaciones o problemas de autenticación.
 	- Esto se logra ejecutando `git clone https://github.com/Tu_Usuario/repositorio.git nombre_de_la_carpeta`. Este URL se encuentra en la página del repositorio en la web de Github, en el botón de clone al seleccionar HTTPS.
 
+A partir de este punto Obsidian Git ya tendrá soporte para los cambios que se vayan haciendo. Recomendamos establecer en las configuraciones del plugin un tiempo de backup
