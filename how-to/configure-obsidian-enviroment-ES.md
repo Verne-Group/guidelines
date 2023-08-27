@@ -14,3 +14,8 @@ Es posible cambiar a una alternativa open-source a este software si se llega a e
 ---
 <center><i>Antes de continuar, comprueba si tu plataforma soporta Obsidian. Puedes consultar sus distribuciones en el siguiente <a href="https://obsidian.md/download#platforms">enlace</a></i> </center>
 
+- ### Windows
+En la [página de descargas](https://obsidian.md/download) de Obsidian presionaremos el botón para descargar el ejecutable
+
+>![[download-button.png]]
+
