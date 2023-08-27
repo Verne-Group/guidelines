@@ -41,4 +41,4 @@ Este punto puede resultar algo tedioso tanto de hacer como explicar. Así que re
 	- A pesar de lo que diga este tutorial, no es necesario instalarse el Github Desktop. Con tener el SSH-Agent configurado en ~/.bashrc basta. Es **IMPORTANTE** que al momento de clonar los repositorios se haga con HTTPS si se quieren evitar complicaciones o problemas de autenticación.
 	- Esto se logra ejecutando `git clone https://github.com/Tu_Usuario/repositorio.git nombre_de_la_carpeta`. Este URL se encuentra en la página del repositorio en la web de Github, en el botón de clone al seleccionar HTTPS.
 
-A partir de este punto Obsidian Git ya tendrá soporte para los cambios que se vayan haciendo. Recomendamos establecer en las configuraciones del plugin un tiempo de backup
+A partir de este punto Obsidian Git ya tendrá soporte para los cambios que se vayan haciendo. Recomendamos establecer en las configuraciones del plugin un tiempo de backup de 10 minutos (Para que en ese lapso de tiempo haga el stage, el commit y el push) y activar el pull automático al iniciar Obsidian.
