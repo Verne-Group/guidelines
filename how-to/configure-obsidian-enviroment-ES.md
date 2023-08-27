@@ -42,3 +42,9 @@ Este punto puede resultar algo tedioso tanto de hacer como explicar. Así que re
 	- Esto se logra ejecutando `git clone https://github.com/Tu_Usuario/repositorio.git nombre_de_la_carpeta`. Este URL se encuentra en la página del repositorio en la web de Github, en el botón de clone al seleccionar HTTPS.
 
 A partir de este punto Obsidian Git ya tendrá soporte para los cambios que se vayan haciendo. Recomendamos establecer en las configuraciones del plugin un tiempo de backup de 10 minutos (Para que en ese lapso de tiempo haga el stage, el commit y el push) y activar el pull automático al iniciar Obsidian.
+
+# ¿Cómo usar Obsidian?:
+---
+Obsidian es una herramienta intuitiva de usar. Para sacarle el máximo proyecto recomendamos tener a la mano una [cheatsheet de markdown](https://www.markdownguide.org/cheat-sheet/) y leer cómo funciona dicho lenguaje. Si has usado herramientas similares como Notion o Evernote, esto te será sencillo de asimilar, es un poco lo mismo sólo que escribiendo tal cual lo que vas a poner en vez de una interfaz gráfica
+
+Uno de los puntos más sólidos que constituyen a Obsidian son los gráficos y diagramas que se pueden hacer. Para entenderlos bien recomendamos dirigirse a la [documentación oficial](https://help.obsidian.md/Editing+and+formatting/Advanced+formatting+syntax).
