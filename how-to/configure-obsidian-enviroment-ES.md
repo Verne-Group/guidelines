@@ -24,4 +24,8 @@ Una vez descargado el instalador, lo ejecutaremos y seguiremos el proceso habitu
 ## 3. Configuración con Github
 ---
 #### Instalación de Obsidian Git
-En el apartado de Settings ![[settings.png]]  > Community Plugins > Turn on community plugins
+En el apartado de Settings ![[settings.png]]  > Community Plugins > Turn on community plugins > Community Plugins > Browse, buscaremos Obsidian Git (puede ser también encontrado en este [enlace](obsidian://show-plugin?id=obsidian-git)) y lo instalaremos, luego presionaremos Enable para habilitarlo (O en la pestaña de Community Plugins dentro de Settings, presionar el botón correspondiente al plugin[^1]).
+[^1]![[Pasted image 20230827024124.png]]
+
+>Obsidian git necesita que haya un repositorio .git creado en el mismo directorio del vault de Obsidian o en algún directorio anterior a este para poder funcionar. De lo contrario, no reconocerá el repositorio ni hará sus acciones correspondientes.
+
