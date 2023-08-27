@@ -34,4 +34,9 @@ En el apartado de Settings ![[settings.png]]  > Community Plugins > Turn on comm
 
 #### Configuración con Github
 
-Este punto puede resultar algo tedioso tanto de hacer como explicar. Así que redirigiremos 
+Este punto puede resultar algo tedioso tanto de hacer como explicar. Así que redirigiremos los pasos a sitios externos que han sabido explicarlo mejor que nosotros.
+
+- [Conectar a Github con SSH](https://docs.github.com/es/authentication/connecting-to-github-with-ssh)
+- [Obsidian Git para principiantes](https://dannyhatcher.com/obsidian-git-for-beginners/)
+	- En este tutorial no es necesario instalarse el Github Desktop. Con tener el SSH-Agent configurado en ~/.bashrc basta. Es **IMPORTANTE** que al momento de clonar los repositorios se haga con HTTPS si se quieren evitar complicaciones o problemas de autenticación. Esto se logra con `git clone https:/`
+- 
