@@ -8,7 +8,8 @@ Hemos elegido Obsidian como herramienta para gestionar nuestra documentación po
 
 Si bien Obsidian no es de código abierto, el que permita poseer los archivos que se crean nos hace pasar por alto esta característica. Obsidian nos permite visualizar, crear y editar nuestras notas y documentaciones de manera cómoda y amigable para todas las partes.
 
-Es posible cambiar a una alternativa open-source a este software si se llega a encontrar o desarrollar un buen candidato.
+>[!faq] ¿Y usar uno open-source?
+>Es posible cambiar a una alternativa open-source a este software si se llega a encontrar o desarrollar un buen candidato.
 
 ## 2. Instalación
 ---
@@ -30,18 +31,22 @@ En el apartado de Settings ![[settings.png]]  > Community Plugins > Turn on comm
 
 ![[plugin-settings-button.png]]
 
-> **IMPORTANTE:** Obsidian git necesita que haya un repositorio .git creado en el mismo directorio del vault o en algún directorio anterior a este para poder funcionar. De lo contrario, no reconocerá el repositorio ni hará sus acciones correspondientes.
+>[!tip] Importante
+>Obsidian git necesita que haya un repositorio .git creado en el mismo directorio del vault o en algún directorio anterior a este para poder funcionar. De lo contrario, no reconocerá el repositorio ni hará sus acciones correspondientes.
 
 #### Configuración con Github
 
 Este punto puede resultar algo tedioso tanto de hacer como explicar. Así que redirigiremos los pasos a sitios externos que han sabido explicarlo mejor que nosotros.
 
-- [Conectar a Github con SSH](https://docs.github.com/es/authentication/connecting-to-github-with-ssh)
+-  [Conectar a Github con SSH](https://docs.github.com/es/authentication/connecting-to-github-with-ssh)
 - [Obsidian Git para principiantes](https://dannyhatcher.com/obsidian-git-for-beginners/)
-	- A pesar de lo que diga este tutorial, no es necesario instalarse el Github Desktop. Con tener el SSH-Agent configurado en ~/.bashrc basta. Es **IMPORTANTE** que al momento de clonar los repositorios se haga con HTTPS si se quieren evitar complicaciones o problemas de autenticación.
-	- Esto se logra ejecutando `git clone https://github.com/Tu_Usuario/repositorio.git nombre_de_la_carpeta`. Este URL se encuentra en la página del repositorio en la web de Github, en el botón de clone al seleccionar HTTPS.
+>[!tip]
+>A pesar de lo que diga el tutorial de arriba, no es necesario instalarse el Github Desktop. Con tener el SSH-Agent configurado en ~/.bashrc basta. Es **IMPORTANTE** que al momento de clonar los repositorios se haga con HTTPS si se quieren evitar complicaciones o problemas de autenticación.
 
-A partir de este punto Obsidian Git ya tendrá soporte para los cambios que se vayan haciendo. Recomendamos establecer en las configuraciones del plugin un tiempo de backup de 10 minutos (Para que en ese lapso de tiempo haga el stage, el commit y el push) y activar el pull automático al iniciar Obsidian.
+A partir de este punto Obsidian Git ya tendrá soporte para los cambios que se vayan haciendo.
+
+>[!tip]
+>Recomendamos establecer en las configuraciones del plugin un tiempo de backup de 10 minutos (Para que en ese lapso de tiempo haga el stage, el commit y el push) y activar el pull automático al iniciar Obsidian.
 
 # ¿Cómo usar Obsidian?:
 ---
