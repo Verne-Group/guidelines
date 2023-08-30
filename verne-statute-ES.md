@@ -16,4 +16,9 @@
 
 ## 3. Sobre los principios de la organización
 
-1. 
+1. Esta organización se fundamenta sobre los principios de desarrollo y gestión Open-Source, difusión, educación, innovación, transparencia, apertura, autonomía y cooperación.
+2. Esta organización es un carácter absolutamente apolítico.
+3. Los miembros de esta organización, dentro del marco de la misma, se comprometen a desarrollar soluciones accesibles, útiles, completas y de provecho para el o los usuarios finales.
+4. Los miembros de esta organización, dentro del marco de la misma, se comprometen a ofrecer sus soluciones a individuos o conglomerados de exclusivo carácter privado, pudiendo exceptuar en caso de abordar problemas de índole humanitaria.
+5. Los miembros de esta organización, dentro del marco de la misma, abordarán el desarrollo para situaciones de carácter público de un modo totalmente autónomo y ajeno a los asuntos públicos y gubernamentales.
+6. Los miembros de esta organización, dentro del marco de la misma, se comprometen a cumplir con los principios ya establecidos anteriormente.
