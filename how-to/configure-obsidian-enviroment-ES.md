@@ -31,7 +31,7 @@ En el apartado de Settings ![[settings.png]]  > Community Plugins > Turn on comm
 
 ![plugin settings button](./configure-obsidian-enviroment-IMG/plugin-settings-button.png)
 
->Importante
+>**Importante:**
 >Obsidian git necesita que haya un repositorio .git creado en el mismo directorio del vault o en algún directorio anterior a este para poder funcionar. De lo contrario, no reconocerá el repositorio ni hará sus acciones correspondientes.
 
 #### Configuración con Github
