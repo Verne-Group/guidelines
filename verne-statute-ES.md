@@ -22,3 +22,15 @@
 4. Los miembros de esta organización, dentro del marco de la misma, se comprometen a ofrecer sus soluciones a individuos o conglomerados de exclusivo carácter privado, pudiendo exceptuar en caso de abordar problemas de índole humanitaria.
 5. Los miembros de esta organización, dentro del marco de la misma, abordarán el desarrollo para situaciones de carácter público de un modo totalmente autónomo y ajeno a los asuntos públicos y gubernamentales.
 6. Los miembros de esta organización, dentro del marco de la misma, se comprometen a cumplir con los principios ya establecidos anteriormente.
+
+## 4. Sobre la misión y visión de la organización.
+---
+1. Esta organización tiene como misión con sus actividades el favorecer el desarrollo y la innovación de conocimientos libres y accesibles para la evolución tecnológica de la humanidad.
+2. Esta organización tiene como visión el ser reconocidos como el grupo de cabecera con el que constituir la creación de proyectos de libre uso, por parte de personas con nuevas ideas y apasionadas por la tecnología.
+
+## 5. Sobre los objetivos institucionales de la organización.
+---
+1. Las actividades de este grupo buscan en todo momento cumplir con los siguientes objetivos:
+	1. Compartir con la sociedad el conocimiento producto del desarrollo de los integrantes del grupo.
+	2. Eliminar las barreras socioculturales a individuos con ideas para empezar nuevos proyectos
+	3. facilitar el acceso a las personas hacia recursos para crear innovación.
